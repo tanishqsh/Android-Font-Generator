@@ -17,5 +17,6 @@ Typeface myFont4 = ff.getRobotoRegular();
 
 textView.setTypeface(myFont1); //Replace myFont1 with myFont2, myFont3... to get your prefered Typeface.
 
-More Fonts will be added soon.
 ```
+
+More Fonts will be added soon.
